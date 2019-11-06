@@ -2,8 +2,8 @@
 
 Small python script to convert a coupon from fractional to decimal.
 
-# Usage
+## Usage
 
-`git clone https://github.com/jammasterj89/slipscan`
-`cd slipscan`
-`./main.py`
+```git clone https://github.com/jammasterj89/slipscan
+cd slipscan
+./main.py```
